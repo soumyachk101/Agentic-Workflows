@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+.env.local
+
+# Project Specific
+.tmp/
+credentials.json
+token.json
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
